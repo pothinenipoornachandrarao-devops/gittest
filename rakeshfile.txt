@@ -3,3 +3,10 @@ ls -ltr
 touch
 vi filename
 mkdir
+
+
+
+
+chdir
+rm-rf
+rm
