@@ -1,5 +1,14 @@
-ls
-ls -ltr
-touch
-vi filename
-mkdir
+apt
+yum
+dnf
+zypper
+update
+install
+*purge
+
+
+
+windowsupdate
+2016
+2019
+2022

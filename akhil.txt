@@ -1,7 +1,0 @@
-apt
-yum
-dnf
-zypper
-update
-install
-*purge
